@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6465a89089513e3428380b5ccf465672
+timeCreated: 1521519148
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 180
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jaapokki subtract
+  fontNames:
+  - Jaapokki subtract
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

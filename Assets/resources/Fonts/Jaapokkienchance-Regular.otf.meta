@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a738b55229debd34dad92e95203bd5cb
+timeCreated: 1521519189
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 180
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jaapokki enchance
+  fontNames:
+  - Jaapokki enchance
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
